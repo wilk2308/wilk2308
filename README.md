@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-embuscadoproximolevel/)  
 
-## 👨‍💻 William Gomes  
-Founder & CEO da **WFI Tech** | Especialista em Automação e Desenvolvimento Backend  
+## 👨‍💻 William Sousa  
+| Especialista em Automação e Desenvolvimento Backend  
 
 ### 🚀 Sobre mim  
-Sou um empreendedor e desenvolvedor apaixonado por automação, backend e soluções tecnológicas inovadoras. Minha missão é criar sistemas que otimizam processos e impulsionam a eficiência empresarial.  
+Sou um desenvolvedor apaixonado por automação, fullstack e soluções tecnológicas inovadoras. Minha missão é criar sistemas que otimizam processos e impulsionam a eficiência empresarial.  
 
 ### 🛠️ Tecnologias e Focos Atuais  
 - 🔹 **Python** → Automação de processos, integração de sistemas e otimização de tarefas repetitivas  
@@ -18,7 +18,7 @@ Sou um empreendedor e desenvolvedor apaixonado por automação, backend e soluç
 Se você busca inovação e eficiência através da tecnologia, entre em contato!  
 
 📩 **E-mail:** [william.sousa@wfitech.com.br]  
-🌐 **Website/Portfólio:** [wfitech.com.br/https://wilk2308.github.io/Portfolio/]  
+🌐 **Website/Portfólio:** [https://wfitech.com.br / https://wilk2308.github.io/Portfolio/]  
 
 > _"May The Code Be With You!"_  
 
