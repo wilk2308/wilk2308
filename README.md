@@ -3,10 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-embuscadoproximolevel/)  
 
 ## 👨‍💻 William Sousa  
-| Especialista em Automação e Desenvolvimento Backend  
+| Especialista em Automação e Desenvolvimento Full Stack
 
 ### 🚀 Sobre mim  
-Sou um desenvolvedor apaixonado por automação, fullstack e soluções tecnológicas inovadoras. Minha missão é criar sistemas que otimizam processos e impulsionam a eficiência empresarial.  
+Sou um desenvolvedor apaixonado por automação, Full Stack e soluções tecnológicas inovadoras. Minha missão é criar sistemas que otimizam processos e impulsionam a eficiência empresarial.  
 
 ### 🛠️ Tecnologias e Focos Atuais  
 - 🔹 **Python** → Automação de processos, integração de sistemas e otimização de tarefas repetitivas  
